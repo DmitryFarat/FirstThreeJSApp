@@ -86,3 +86,5 @@ console.log('Auto commit updated this file');
 console.log('Auto commit updated this file');
 // Auto commit: Addressed bug causing data loss during form submission
 console.log('Auto commit updated this file');
+// Refactor user authentication logic,
+//console.log('Auto commit updated this file');
