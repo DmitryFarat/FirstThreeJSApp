@@ -225,4 +225,6 @@ Introduced multi-language support for the app// Auto commit at timestamp: Thu No
 console.log('Auto commit updated the JS file');
 Added dark mode toggle to improve user experience// Auto commit at timestamp: Thu Nov 21 17:56:47 2024
 console.log('Auto commit updated the JS file');
-Implemented profile picture upload functionality
+Implemented profile picture upload functionality// Auto commit at timestamp: Thu Nov 21 17:56:57 2024
+console.log('Auto commit updated the JS file');
+Created 'forgot password' functionality
