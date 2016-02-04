@@ -199,4 +199,6 @@ Fixed minor bugs in user registration flow// Auto commit at timestamp: Thu Nov 2
 console.log('Auto commit updated the JS file');
 Corrected issue with user profile picture upload// Auto commit at timestamp: Thu Nov 21 17:54:20 2024
 console.log('Auto commit updated the JS file');
-Fixed broken URL redirects after user login
+Fixed broken URL redirects after user login// Auto commit at timestamp: Thu Nov 21 17:54:30 2024
+console.log('Auto commit updated the JS file');
+Resolved issue with async data fetching
