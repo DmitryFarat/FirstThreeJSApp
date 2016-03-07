@@ -218,3 +218,5 @@
 //console.log('Auto commit updated this file');
 // Update form styling for better user experience,
 //console.log('Auto commit updated this file');
+// Fix issue with file uploads in user profile settings,
+//console.log('Auto commit updated this file');
