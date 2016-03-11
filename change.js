@@ -233,4 +233,6 @@ Added feature to save and retrieve user preferences// Auto commit at timestamp: 
 console.log('Auto commit updated the JS file');
 Refactored UI for improved responsiveness on mobile devices// Auto commit at timestamp: Thu Nov 21 17:57:32 2024
 console.log('Auto commit updated the JS file');
-Updated homepage layout to be more user-friendly
+Updated homepage layout to be more user-friendly// Auto commit at timestamp: Thu Nov 21 17:57:45 2024
+console.log('Auto commit updated the JS file');
+Improved color scheme for better contrast and readability
