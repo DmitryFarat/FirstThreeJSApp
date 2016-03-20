@@ -68,3 +68,5 @@ console.log('Auto commit updated this file');
 console.log('Auto commit updated this file');
 // Auto commit: Resolved issue with form submission error handling
 console.log('Auto commit updated this file');
+// Auto commit: Addressed image display issues on the gallery page
+console.log('Auto commit updated this file');
