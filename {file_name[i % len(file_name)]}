@@ -704,3 +704,5 @@
 //console.log('Auto commit updated this file');
 // Add custom error page for 404 not found,
 //console.log('Auto commit updated this file');
+// Fix bug causing cart items to be lost after refresh,
+//console.log('Auto commit updated this file');
