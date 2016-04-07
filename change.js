@@ -197,4 +197,6 @@ Addressed image display issues on the gallery page// Auto commit at timestamp: T
 console.log('Auto commit updated the JS file');
 Fixed minor bugs in user registration flow// Auto commit at timestamp: Thu Nov 21 17:54:09 2024
 console.log('Auto commit updated the JS file');
-Corrected issue with user profile picture upload
+Corrected issue with user profile picture upload// Auto commit at timestamp: Thu Nov 21 17:54:20 2024
+console.log('Auto commit updated the JS file');
+Fixed broken URL redirects after user login
