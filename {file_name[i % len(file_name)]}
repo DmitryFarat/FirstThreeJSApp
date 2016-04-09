@@ -1280,3 +1280,5 @@
 //console.log('Auto commit updated this file');
 // Improve cart page layout for easier item removal,
 //console.log('Auto commit updated this file');
+// Refactor checkout to allow promo code input at the end,
+//console.log('Auto commit updated this file');
