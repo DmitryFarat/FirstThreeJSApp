@@ -680,3 +680,5 @@
 //console.log('Auto commit updated this file');
 // Improve UI for error messages on form submissions,
 //console.log('Auto commit updated this file');
+// Fix bug with displaying product variants on product page,
+//console.log('Auto commit updated this file');
