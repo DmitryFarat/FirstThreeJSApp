@@ -554,3 +554,5 @@
 //console.log('Auto commit updated this file');
 // Refactor authentication flow to use JWT,
 //console.log('Auto commit updated this file');
+// Add validation for user input on registration page,
+//console.log('Auto commit updated this file');
