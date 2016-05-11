@@ -231,4 +231,6 @@ Created 'forgot password' functionality// Auto commit at timestamp: Thu Nov 21 1
 console.log('Auto commit updated the JS file');
 Added feature to save and retrieve user preferences// Auto commit at timestamp: Thu Nov 21 17:57:22 2024
 console.log('Auto commit updated the JS file');
-Refactored UI for improved responsiveness on mobile devices
+Refactored UI for improved responsiveness on mobile devices// Auto commit at timestamp: Thu Nov 21 17:57:32 2024
+console.log('Auto commit updated the JS file');
+Updated homepage layout to be more user-friendly
