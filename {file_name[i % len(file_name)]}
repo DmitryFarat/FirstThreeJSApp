@@ -1034,3 +1034,5 @@
 //console.log('Auto commit updated this file');
 // Add new user role permissions for admin users,
 //console.log('Auto commit updated this file');
+// Improve session management for better user experience,
+//console.log('Auto commit updated this file');
