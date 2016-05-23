@@ -189,4 +189,6 @@ Update:add skills page// Auto commit at timestamp: Thu Nov 21 17:53:13 2024
 console.log('Auto commit updated the JS file');
 Fixed bug in user authentication// Auto commit at timestamp: Thu Nov 21 17:53:22 2024
 console.log('Auto commit updated the JS file');
-Fixed bug causing user data to be overwritten
+Fixed bug causing user data to be overwritten// Auto commit at timestamp: Thu Nov 21 17:53:36 2024
+console.log('Auto commit updated the JS file');
+Resolved issue with form submission error handling
