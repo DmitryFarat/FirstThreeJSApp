@@ -660,3 +660,5 @@
 //console.log('Auto commit updated this file');
 // Refactor product detail page for better UI,
 //console.log('Auto commit updated this file');
+// Add authentication middleware for all routes,
+//console.log('Auto commit updated this file');
