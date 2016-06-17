@@ -203,4 +203,6 @@ Fixed broken URL redirects after user login// Auto commit at timestamp: Thu Nov 
 console.log('Auto commit updated the JS file');
 Resolved issue with async data fetching// Auto commit at timestamp: Thu Nov 21 17:54:39 2024
 console.log('Auto commit updated the JS file');
-Fixed incorrect display of date format in user dashboard
+Fixed incorrect display of date format in user dashboard// Auto commit at timestamp: Thu Nov 21 17:54:50 2024
+console.log('Auto commit updated the JS file');
+Resolved login issue with social media OAuth
