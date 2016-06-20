@@ -247,4 +247,6 @@ Redesigned the navigation menu for better accessibility// Auto commit at timesta
 console.log('Auto commit updated the JS file');
 Updated icons for better consistency across the app// Auto commit at timestamp: Thu Nov 21 17:58:51 2024
 console.log('Auto commit updated the JS file');
-Optimized mobile UI for faster performance
+Optimized mobile UI for faster performance// Auto commit at timestamp: Thu Nov 21 17:59:04 2024
+console.log('Auto commit updated the JS file');
+Redesigned the footer for a cleaner layout
