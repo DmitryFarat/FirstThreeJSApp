@@ -243,4 +243,6 @@ Optimized the design of the product detail page// Auto commit at timestamp: Thu 
 console.log('Auto commit updated the JS file');
 Improved modal window behavior for better UX// Auto commit at timestamp: Thu Nov 21 17:58:30 2024
 console.log('Auto commit updated the JS file');
-Redesigned the navigation menu for better accessibility
+Redesigned the navigation menu for better accessibility// Auto commit at timestamp: Thu Nov 21 17:58:39 2024
+console.log('Auto commit updated the JS file');
+Updated icons for better consistency across the app
