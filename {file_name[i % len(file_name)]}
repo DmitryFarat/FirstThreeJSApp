@@ -1182,3 +1182,5 @@
 //console.log('Auto commit updated this file');
 // Fix issue with incorrect shipping costs calculation,
 //console.log('Auto commit updated this file');
+// Add new email template for order confirmation,
+//console.log('Auto commit updated this file');
