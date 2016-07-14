@@ -1238,3 +1238,5 @@
 //console.log('Auto commit updated this file');
 // Improve user registration process with email verification,
 //console.log('Auto commit updated this file');
+// Fix bug causing missing product details on product page,
+//console.log('Auto commit updated this file');
