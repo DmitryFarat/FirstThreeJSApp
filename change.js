@@ -10,4 +10,6 @@ Update:change the profile description and add new avatars// Auto commit at times
 console.log('Auto commit updated the JS file');
 Update:add new puzzle games// Auto commit at timestamp: Thu Nov 21 18:38:53 2024
 console.log('Auto commit updated the JS file');
-Update:add contact page
+Update:add contact page// Auto commit at timestamp: Thu Nov 21 18:39:06 2024
+console.log('Auto commit updated the JS file');
+Update:add interest subject part
