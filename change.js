@@ -229,4 +229,6 @@ Implemented profile picture upload functionality// Auto commit at timestamp: Thu
 console.log('Auto commit updated the JS file');
 Created 'forgot password' functionality// Auto commit at timestamp: Thu Nov 21 17:57:11 2024
 console.log('Auto commit updated the JS file');
-Added feature to save and retrieve user preferences
+Added feature to save and retrieve user preferences// Auto commit at timestamp: Thu Nov 21 17:57:22 2024
+console.log('Auto commit updated the JS file');
+Refactored UI for improved responsiveness on mobile devices
