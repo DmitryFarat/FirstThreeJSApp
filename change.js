@@ -239,4 +239,6 @@ Improved color scheme for better contrast and readability// Auto commit at times
 console.log('Auto commit updated the JS file');
 Enhanced user interface for account settings// Auto commit at timestamp: Thu Nov 21 17:58:05 2024
 console.log('Auto commit updated the JS file');
-Optimized the design of the product detail page
+Optimized the design of the product detail page// Auto commit at timestamp: Thu Nov 21 17:58:18 2024
+console.log('Auto commit updated the JS file');
+Improved modal window behavior for better UX
