@@ -698,3 +698,5 @@
 //console.log('Auto commit updated this file');
 // Implement caching for product data,
 //console.log('Auto commit updated this file');
+// Fix issue with footer displaying incorrectly on mobile,
+//console.log('Auto commit updated this file');
