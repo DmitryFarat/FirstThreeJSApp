@@ -3250,3 +3250,5 @@
 //console.log('Auto commit updated this file');
 // Add new feature for users to manage multiple shipping addresses,
 //console.log('Auto commit updated this file');
+// Fix bug with submitting forms with empty fields,
+//console.log('Auto commit updated this file');
