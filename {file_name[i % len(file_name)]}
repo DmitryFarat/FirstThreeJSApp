@@ -868,3 +868,5 @@
 //console.log('Auto commit updated this file');
 // Refactor checkout flow to reduce steps,
 //console.log('Auto commit updated this file');
+// Fix issue with invalid coupon codes during checkout,
+//console.log('Auto commit updated this file');
