@@ -702,3 +702,5 @@
 //console.log('Auto commit updated this file');
 // Update user registration form to include phone number field,
 //console.log('Auto commit updated this file');
+// Add custom error page for 404 not found,
+//console.log('Auto commit updated this file');
