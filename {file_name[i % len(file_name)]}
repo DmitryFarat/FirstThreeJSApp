@@ -1126,3 +1126,5 @@
 //console.log('Auto commit updated this file');
 // Add new feature for users to save favorite products,
 //console.log('Auto commit updated this file');
+// Update database schema to support product tags,
+//console.log('Auto commit updated this file');
