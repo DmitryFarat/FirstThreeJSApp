@@ -12,4 +12,8 @@ Update:add new puzzle games// Auto commit at timestamp: Thu Nov 21 18:38:53 2024
 console.log('Auto commit updated the JS file');
 Update:add contact page// Auto commit at timestamp: Thu Nov 21 18:39:06 2024
 console.log('Auto commit updated the JS file');
-Update:add interest subject part
+Update:add interest subject part// Auto commit at timestamp: Thu Nov 21 18:43:05 2024
+console.log('Auto commit updated the JS file');
+Edit README file// Auto commit at timestamp: Thu Nov 21 18:43:26 2024
+console.log('Auto commit updated the JS file');
+Edit README file
