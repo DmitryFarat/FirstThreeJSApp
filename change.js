@@ -205,4 +205,6 @@ Resolved issue with async data fetching// Auto commit at timestamp: Thu Nov 21 1
 console.log('Auto commit updated the JS file');
 Fixed incorrect display of date format in user dashboard// Auto commit at timestamp: Thu Nov 21 17:54:50 2024
 console.log('Auto commit updated the JS file');
-Resolved login issue with social media OAuth
+Resolved login issue with social media OAuth// Auto commit at timestamp: Thu Nov 21 17:54:59 2024
+console.log('Auto commit updated the JS file');
+Fixed edge case where session was not cleared after logout
