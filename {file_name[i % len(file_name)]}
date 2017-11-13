@@ -3150,3 +3150,5 @@
 //console.log('Auto commit updated this file');
 // Update profile page with new options for setting avatar,
 //console.log('Auto commit updated this file');
+// Fix bug with date formatting on user dashboard,
+//console.log('Auto commit updated this file');
