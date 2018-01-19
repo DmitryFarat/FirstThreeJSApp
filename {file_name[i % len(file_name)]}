@@ -1528,3 +1528,5 @@
 //console.log('Auto commit updated this file');
 // Add ability to add multiple shipping addresses for users,
 //console.log('Auto commit updated this file');
+// Fix bug with sorting of user reviews on product page,
+//console.log('Auto commit updated this file');
