@@ -1562,3 +1562,5 @@
 //console.log('Auto commit updated this file');
 // Refactor home page layout for better readability,
 //console.log('Auto commit updated this file');
+// Fix bug causing cart items to be duplicated,
+//console.log('Auto commit updated this file');
