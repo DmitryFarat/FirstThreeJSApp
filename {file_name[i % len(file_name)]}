@@ -1468,3 +1468,5 @@
 //console.log('Auto commit updated this file');
 // Add 'Forgot Password' feature to login page,
 //console.log('Auto commit updated this file');
+// Refactor code to remove deprecated dependencies,
+//console.log('Auto commit updated this file');
