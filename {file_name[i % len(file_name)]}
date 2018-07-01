@@ -2062,3 +2062,5 @@
 //console.log('Auto commit updated this file');
 // Update database schema to support product tags,
 //console.log('Auto commit updated this file');
+// Fix bug with incorrect prices to be displayed on checkout,
+//console.log('Auto commit updated this file');
