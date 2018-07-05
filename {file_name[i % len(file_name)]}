@@ -1966,3 +1966,5 @@
 //console.log('Auto commit updated this file');
 // Enhance security for user passwords with bcrypt hashing,
 //console.log('Auto commit updated this file');
+// Add new user role permissions for admin users,
+//console.log('Auto commit updated this file');
