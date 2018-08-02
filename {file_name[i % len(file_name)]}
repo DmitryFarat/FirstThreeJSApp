@@ -2688,3 +2688,5 @@
 //console.log('Auto commit updated this file');
 // Update form validation for email input field,
 //console.log('Auto commit updated this file');
+// Refactor user profile component to use hooks,
+//console.log('Auto commit updated this file');
