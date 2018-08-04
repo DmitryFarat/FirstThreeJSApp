@@ -2328,3 +2328,5 @@
 //console.log('Auto commit updated this file');
 // Add multi-language support for French and German,
 //console.log('Auto commit updated this file');
+// Fix bug with date picker component on form submission,
+//console.log('Auto commit updated this file');
