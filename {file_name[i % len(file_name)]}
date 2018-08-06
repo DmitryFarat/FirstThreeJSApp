@@ -2748,3 +2748,5 @@
 //console.log('Auto commit updated this file');
 // Add authentication middleware for all routes,
 //console.log('Auto commit updated this file');
+// Fix issue with JavaScript errors in browser console,
+//console.log('Auto commit updated this file');
