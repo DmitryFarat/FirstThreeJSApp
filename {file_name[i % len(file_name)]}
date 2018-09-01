@@ -2114,3 +2114,5 @@
 //console.log('Auto commit updated this file');
 // Refactor product carousel for better performance on mobile,
 //console.log('Auto commit updated this file');
+// Fix issue with incorrect shipping costs calculation,
+//console.log('Auto commit updated this file');
