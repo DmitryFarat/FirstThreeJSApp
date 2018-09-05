@@ -2174,3 +2174,5 @@
 //console.log('Auto commit updated this file');
 // Fix bug causing missing product details on product page,
 //console.log('Auto commit updated this file');
+// Add support for product variations like size and color,
+//console.log('Auto commit updated this file');
