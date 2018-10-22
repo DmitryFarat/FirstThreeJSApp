@@ -2104,3 +2104,5 @@
 //console.log('Auto commit updated this file');
 // Add product comparison feature to shopping cart,
 //console.log('Auto commit updated this file');
+// Refactor search bar to support fuzzy search,
+//console.log('Auto commit updated this file');
