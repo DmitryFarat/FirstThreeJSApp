@@ -1482,3 +1482,5 @@
 //console.log('Auto commit updated this file');
 // Fix bug with displaying product variants on product page,
 //console.log('Auto commit updated this file');
+// Refactor backend logic for email verification,
+//console.log('Auto commit updated this file');
