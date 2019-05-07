@@ -2334,3 +2334,5 @@
 //console.log('Auto commit updated this file');
 // Improve search functionality with advanced filtering,
 //console.log('Auto commit updated this file');
+// Add spinner for loading state on dashboard,
+//console.log('Auto commit updated this file');
