@@ -2098,3 +2098,5 @@
 //console.log('Auto commit updated this file');
 // Update API to return product availability status,
 //console.log('Auto commit updated this file');
+// Fix issue with invalid date inputs on forms,
+//console.log('Auto commit updated this file');
