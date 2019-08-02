@@ -2064,3 +2064,5 @@
 //console.log('Auto commit updated this file');
 // Fix bug with incorrect prices to be displayed on checkout,
 //console.log('Auto commit updated this file');
+// Refactor cart page to improve loading time,
+//console.log('Auto commit updated this file');
