@@ -1936,3 +1936,5 @@
 //console.log('Auto commit updated this file');
 // Add pagination to product listings page,
 //console.log('Auto commit updated this file');
+// Improve accessibility by adding ARIA labels to buttons,
+//console.log('Auto commit updated this file');
