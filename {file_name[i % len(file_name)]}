@@ -2524,3 +2524,5 @@
 //console.log('Auto commit updated this file');
 // Add a review section on the product detail page,
 //console.log('Auto commit updated this file');
+// Update database schema to support internationalization,
+//console.log('Auto commit updated this file');
